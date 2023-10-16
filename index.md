@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Salut, c'est Jasmine'
+landing-title: "Salut, c'est Jasmine"
 description: null
 image: null
 author: null
