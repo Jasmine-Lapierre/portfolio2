@@ -5,13 +5,13 @@ email: jasminelapierre04@gmail.com
 description: Je suis une étudiante en fin de DEC en Techniques d'intégration multimédia à la recherche d'un stage en programmation Web ou Unity!
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: (716) 555-5555
+author: Jasmine Lapierre
+street_address: 3567A rue Jean-Talon est
+city: Montréal
+state: QC
+zip_code: H2A 1X4
+country: Canada
+phone: (438) 498 0797
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,12 +22,12 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/andrewbanchich
+  GitHub: https://github.com/Jasmine-Lapierre
   GitLab:
-  Google-Plus: https://plus.google.com/u/0/+AndrewBanchich
+  Google-Plus:
   Instagram:
-  LinkedIn: https://www.linkedin.com/in/andrew-banchich-a4ba1195
-  Twitter: https://twitter.com/andrewbanchich
+  LinkedIn: https://www.linkedin.com/in/jasmine-lapierre/
+  Twitter: 
   Facebook:
   Slack:
 
